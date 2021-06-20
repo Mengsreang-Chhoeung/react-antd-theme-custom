@@ -107,4 +107,4 @@ yarn start
 
 > លទ្ធផល
 
-![react-js-result thumbnail](/_thumbnail_doc/reactjs-result.jpg "React JS Result")
+![react-js-result thumbnail](/_thumbnail_doc/reactjs-result.JPG "React JS Result")
